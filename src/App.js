@@ -1,9 +1,9 @@
-import UseRef01 from './components/UseRef01';
+import UseMemeo01 from './components/UseMemeo01';
 
 function App() {
   return (
     <div className='container mt-5'>
-      <UseRef01 />
+      <UseMemeo01 />
     </div>
   );
 }

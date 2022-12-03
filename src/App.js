@@ -1,9 +1,9 @@
-import UseMemeo01 from './components/UseMemeo01';
+import UseCallback01 from './components/UseCallback01';
 
 function App() {
   return (
     <div className='container mt-5'>
-      <UseMemeo01 />
+      <UseCallback01 />
     </div>
   );
 }

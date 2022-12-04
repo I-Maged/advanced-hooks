@@ -1,9 +1,9 @@
-import CustomFetch from './components/CustomFetch';
+import LocalStorage from './components/LocalStorage';
 
 function App() {
   return (
     <div className='container mt-5'>
-      <CustomFetch />
+      <LocalStorage />
     </div>
   );
 }
